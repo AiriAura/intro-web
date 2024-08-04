@@ -4,7 +4,7 @@ alert ("Tu elección fue:" + userChoice)
 let secretNumber = 7
 
 if(userChoice == secretNumber){
-    alert("ganaste! te debo lo q tu quieras")
+    alert("dringringringggg! te debo regalo a elección")
    }   else {
-       alert("¡Perdiste! me debes una cita en el cerro" )
+       alert("u loose:p me debes una cita en el cerro" )
 }
