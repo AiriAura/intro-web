@@ -1,6 +1,6 @@
 let welcomeMessage 
-welcomeMessage = "Bienvenido a mi aplicación"
+welcomeMessage = "holaaaaaaaaa"
 alert(welcomeMessage)
 
-welcomeMessage = "Bienvenido a mi web"
+welcomeMessage = "holi bb"
 alert (welcomeMessage)

@@ -4,7 +4,7 @@ alert ("Tu elección fue:" + userChoice)
 let secretNumber =Math.floor(Math.random()*10)
 
 if(userChoice == secretNumber){
-    alert("Ganaste!")
+    alert("Ganaste jj te debo un besito")
    }   else {
-       alert("¡Perdiste! el número secreto era:" + secretNumber)
+       alert("¡Perdiste! me debes un besito" )
 }
